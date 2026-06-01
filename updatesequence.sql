@@ -1,1 +1,0 @@
-UPDATE sqlite_sequence SET seq = 2010 WHERE name = 'menu_items';
