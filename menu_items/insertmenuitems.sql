@@ -7,4 +7,5 @@ INSERT INTO menu_items (item_name, is_available, price, category) VALUES
 ('Green Tea', 1, 2.50, 'Tea'),
 ('Black Tea', 1, 2.50, 'Tea'),
 ('Herbal Tea', 1, 3.00, 'Tea'),
+('Matcha Tea', 1, 5.25, 'Tea'),
 ('Chai Latte', 1, 3.75, 'Tea');
