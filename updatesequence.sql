@@ -1,1 +1,1 @@
-UPDATE sqlite_sequence SET seq = 2010 WHERE name = 'menu_items';
+UPDATE sqlite_sequence SET seq = 20000 WHERE name = 'menu_items';
